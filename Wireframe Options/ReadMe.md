@@ -10,3 +10,6 @@ From the images above, chose a wireframe to guide your design for today's projec
 - [ ]  Link navigation items to new HTML pages
 
 Some choices are easier than others, pick something that feels right to you. 
+
+a man of all markets -black jack
+how not to be wrong the power of mathematical thinking- 
